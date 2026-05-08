@@ -1,0 +1,11 @@
+{
+  "rust-analyzer.server.path": "/usr/bin/rust-analyzer",
+  "rust-analyzer.checkOnSave.command": "clippy",
+  "rust-analyzer.inlayHints.bindingModeHints.enable": false,
+  "rust-analyzer.inlayHints.chainingHints.enable": true,
+  "rust-analyzer.inlayHints.parameterHints.enable": true,
+  "rust-analyzer.inlayHints.typeHints.enable": true,
+  "rust-analyzer.cargo.allFeatures": true,
+  "suggest.noselect": false,
+  "suggest.enablePreselect": true
+}

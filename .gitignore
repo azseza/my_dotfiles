@@ -1,0 +1,16 @@
+# Fish state / generated
+.config/fish/fish_variables
+.config/fish/completions/
+
+# Vim plugins (managed by vim-plug)
+.vim/plugged/
+.vim/autoload/
+.vim/.netrwhist
+
+# CoC extensions (auto-installed via g:coc_global_extensions)
+.config/coc/
+
+# OS / editor cruft
+.DS_Store
+*.swp
+*~
